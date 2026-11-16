@@ -1,6 +1,6 @@
 # 🦞 Slack Tide Lobster Shack
 
-A responsive one-page website for Slack Tide Lobster Shack, a fictional family-run lobster shack on the wharf in Harpswell, Maine. The page has a hero banner over a lobster roll photo, a menu with prices, a step-by-step guide to eating a whole lobster, and a "Find the Wharf" section with hours, the address, and tips for visiting. The layout adjusts for laptop, tablet, and phone screens.
+A responsive one-page website for Slack Tide Lobster Shack, a family-run lobster shack on the wharf in Harpswell, Maine. The page has a hero banner over a lobster roll photo, a menu with prices, a step-by-step guide to eating a whole lobster, and a "Find the Wharf" section with hours, the address, and tips for visiting. The layout adjusts for laptop, tablet, and phone screens.
 
 [![Screenshot-2026-10-10-at-3-33-32-AM.png](https://i.postimg.cc/kg0nVPVm/Screenshot-2026-10-10-at-3-33-32-AM.png)](https://postimg.cc/DScVDDdj)
 
